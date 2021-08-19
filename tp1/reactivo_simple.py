@@ -1,6 +1,7 @@
 import random
 import time
 
+
 def create_false_floor(floor_length, position):
     floor = list()
     for i in range(floor_length):
